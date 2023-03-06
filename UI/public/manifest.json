@@ -1,0 +1,25 @@
+{
+  "short_name": "PowerOffice AS",
+  "name": "PowerOffice AS João Gomes Sample",
+  "icons": [
+    {
+      "src": "poweroffice.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "poweroffice.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "poweroffice.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
